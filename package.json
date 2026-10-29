@@ -1,0 +1,22 @@
+{
+  "name": "githubactions_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcfrances12/githubActions_examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Marcfrances12/githubActions_examples/issues"
+  },
+  "homepage": "https://github.com/Marcfrances12/githubActions_examples#readme"
+}
